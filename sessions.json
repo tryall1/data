@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Человек-паук: Нет пути домой",
+            "time": "09:45",
+            "cinema": "Кино-культурный центр «КиноКульт»",
+            "cinema_value": "kinocult",
+            "price": "от 100 ₽",
+            "rating": 9.0,
+            "age": "12+",
+            "poster": "/images/films/pidar_man.svg",
+            "cinema_logo": "/images/icons/kinokult.svg",
+            "link": "movies/movie"
+        },
+        {
+            "id": 2,
+            "title": "Человек-паук: Нет пути домой",
+            "time": "12:30",
+            "cinema": "Кино-культурный центр «КиноКульт»",
+            "cinema_value": "kinocult",
+            "price": "от 150 ₽",
+            "rating": 8.5,
+            "age": "12+",
+            "poster": "/images/films/pokah.svg",
+            "cinema_logo": "/images/icons/kinokult.svg",
+            "link": "movies/movie"
+        },
+        {
+            "id": 3,
+            "title": "Доктор Стрэндж",
+            "time": "15:20",
+            "date": "Завтра",
+            "cinema": "Кинотеатр \"Звездочка\"",
+            "cinema_value": "zvezdochka",
+            "price": "от 200 ₽",
+            "rating": 8.8,
+            "age": "12+",
+            "poster": "/images/films/war.svg",
+            "cinema_logo": "/images/icons/star.svg",
+            "link": "movies/movie"
+        },
+        {
+            "id": 4,
+            "title": "Сказ о синем мужике",
+            "time": "09:45",
+            "date": "Завтра",
+            "cinema": "Кинотеатр \"Звездочка\"",
+            "cinema_value": "zvezdochka",
+            "price": "от 200 ₽",
+            "rating": 8.8,
+            "age": "12+",
+            "poster": "/images/films/avatar.svg",
+            "cinema_logo": "/images/icons/star.svg",
+            "link": "movies/movie"
+        },
+        {
+            "id": 5,
+            "title": "Человек-паук: Нет пути домой",
+            "time": "09:45",
+            "cinema": "Кино-культурный центр «КиноКульт»",
+            "cinema_value": "kinocult",
+            "price": "от 100 ₽",
+            "rating": 9.0,
+            "age": "12+",
+            "poster": "/images/films/pidar_man.svg",
+            "cinema_logo": "/images/icons/kinokult.svg",
+            "link": "movies/movie"
+        },
+        {
+            "id": 6,
+            "title": "Доктор Стрэндж",
+            "time": "15:20",
+            "date": "Завтра",
+            "cinema": "Кинотеатр \"Звездочка\"",
+            "cinema_value": "zvezdochka",
+            "price": "от 200 ₽",
+            "rating": 8.8,
+            "age": "12+",
+            "poster": "/images/films/war.svg",
+            "cinema_logo": "/images/icons/star.svg",
+            "link": "movies/movie"
+        }
+    ]
+}

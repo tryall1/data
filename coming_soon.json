@@ -1,0 +1,22 @@
+{
+    "data": [
+    {
+        "title": "Выживший",
+        "poster": "/images/films/film_1.png",
+        "releaseStatus": "Скоро",
+        "description": "Морбиус"
+        },
+        {
+        "title": "Фильм 3",
+        "poster": "/images/films/film_3.jpg",
+        "releaseStatus": "Скоро",
+        "description": "Zомбилэнд"
+        },
+        {
+        "title": "Фильм 4",
+        "poster": "/images/films/film_4.jpg",
+        "releaseStatus": "Скоро",
+        "description": "Фильм 4"
+        }
+    ]
+}

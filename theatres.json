@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "image": "/images/Theatre_city.svg",
+      "name": "Кинотеатр Донецк Сити",
+      "icon": "/images/icons/funtura.svg",
+      "label": "Донецк Сити",
+      "value": "donetsk-city",
+      "schedule": [
+        {
+          "dayName": "Понедельник",
+          "shortDayName": "Пн",
+          "dateFormatted": "14.10",
+          "sessions": "25"   
+        },
+        {
+          "dayName": "Вторник",
+          "shortDayName": "Вт",
+          "dateFormatted": "15.10",
+          "sessions": "25"
+        },
+        {
+          "dayName": "Суббота",
+          "shortDayName": "Сб",
+          "dateFormatted": "12.10",
+          "sessions": "50"
+        },
+        {
+          "dayName": "Воскресенье",
+          "shortDayName": "Пт",
+          "dateFormatted": "11.10",
+          "sessions": "38"
+        },
+        {
+          "dayName": "Понедельник",
+          "shortDayName": "Пт",
+          "dateFormatted": "11.10",
+          "sessions": "38"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "image": "/images/theatre_shevchenko.svg",
+      "name": "Кинотеатр Шевченко",
+      "icon": "/images/icons/shevchenko.svg",
+      "value": "shevchenko", 
+      "label": "Шевченко",
+      "schedule": [
+        {
+          "dayName": "Среда",
+          "shortDayName": "Ср",
+          "dateFormatted": "09.10",
+          "sessions": "45"
+        },
+        {
+          "dayName": "Четверг",
+          "shortDayName": "Чт",
+          "dateFormatted": "10.10",
+          "sessions": "12"
+        },
+        {
+          "dayName": "Пятница",
+          "shortDayName": "Пт",
+          "dateFormatted": "11.10",
+          "sessions": "38"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "/images/star.svg",
+      "name": "Кинотеатр Звездочка",
+      "value": "zvezdochka", 
+      "label": "Звездочка", 
+      "icon": "/images/icons/star.svg",
+      "schedule": [
+        {
+          "dayName": "Понедельник",
+          "shortDayName": "Пн",
+          "dateFormatted": "14.10",
+          "sessions": "20"
+        },
+        {
+          "dayName": "Вторник",
+          "shortDayName": "Вт",
+          "dateFormatted": "15.10",
+          "sessions": "25"
+        },
+        {
+          "dayName": "Суббота",
+          "shortDayName": "Сб",
+          "dateFormatted": "12.10",
+          "sessions": "50"
+        },
+        {
+          "dayName": "Воскресенье",
+          "shortDayName": "Вс",
+          "dateFormatted": "10.10",
+          "sessions": "12"
+        },
+        {
+          "dayName": "Пятница",
+          "shortDayName": "Пт",
+          "dateFormatted": "11.10",
+          "sessions": "38"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "image": "/images/Theatre_union.svg",
+      "name": "Кинотеатр Союз",
+      "label": "Союз",
+      "icon": "/images/icons/soyz.svg",
+      "value": "union",
+      "schedule": [
+        {
+          "dayName": "Среда",
+          "shortDayName": "Ср",
+          "dateFormatted": "16.10",
+          "sessions": "30"
+        },
+        {
+          "dayName": "Четверг",
+          "shortDayName": "Чт",
+          "dateFormatted": "17.10",
+          "sessions": "15"
+        },
+        {
+          "dayName": "Пятница",
+          "shortDayName": "Пт",
+          "dateFormatted": "18.10",
+          "sessions": "40"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "image": "/images/kinokult.jpg",
+      "icon": "/images/icons/kinokult.svg",
+      "label": "Кинокульт",
+      "name": "Кинотеатр  Кинокультр",
+      "value": "kinocult",
+      "schedule": [
+        {
+          "dayName": "Среда",
+          "shortDayName": "Ср",
+          "dateFormatted": "16.10",
+          "sessions": "30"
+        },
+        {
+          "dayName": "Четверг",
+          "shortDayName": "Чт",
+          "dateFormatted": "17.10",
+          "sessions": "15"
+        },
+        {
+          "dayName": "Пятница",
+          "shortDayName": "Пт",
+          "dateFormatted": "18.10",
+          "sessions": "40"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "image": "/images/star.svg",
+      "name": "Кинотеатр Золотое кольцо",
+      "value": "golden_ring", 
+      "label": "Золотое кольцо", 
+      "icon": "/images/icons/golden_ring.svg"
+    }
+  ]
+}

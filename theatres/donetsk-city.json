@@ -1,0 +1,70 @@
+{
+  "data": 
+  [
+    {
+      "id": "1",
+      "title": "КИНОТЕАТР Донецк Сити",
+      "slug": "donetsk-city",
+      "image": "/images/Theatre_city.svg",
+      "phone_numbers": ["+7(949)-392-45-98", "+7(949)-390-41-92", "+7(942)-400-41-32"],
+      "description": "Тут будет небольшой блок с описанием кинотеатра и вообще всего что с ним связано. Правда неясно откуда мы его будем брать",
+      "halls": [
+        {"id":"1", "name": "Бергман", "places": "228", "hall_photo":"/images/1-large.svg"},
+        {"id":"2", "name": "Дзурлини", "places": "97", "hall_photo":"/images/3-large.svg"},
+        {"id":"3", "name": "Малкович", "places": "35", "hall_photo":"/images/4-large.svg"},
+        {"id":"4", "name": "Окуджава", "places": "90", "hall_photo":"/images/4-large.svg"}
+      ],
+      "schedule": [
+        {
+          "dayName": "Понедельник",
+          "shortDayName": "Пн",
+          "dateFormatted": "14.10",
+          "sessions": [
+            {"time": "10:30"},
+            {"time": "11:50"},
+            {"time": "10:30"}
+          ]
+        },
+        {
+          "dayName": "Вторник",
+          "shortDayName": "Вт",
+          "dateFormatted": "15.10",
+          "sessions": [
+            {"time": "20:30"},
+            {"time": "23:00"}
+          ]
+        },
+        {
+          "dayName": "Суббота",
+          "shortDayName": "Сб",
+          "dateFormatted": "12.10",
+          "sessions": [
+            {"time": "22:30"},
+            {"time": "14:00"},
+            {"time": "19:00"},
+            {"time": "21:00"}
+          ]
+        },
+        {
+          "dayName": "Воскресенье",
+          "shortDayName": "Пт",
+          "dateFormatted": "11.10",
+          "sessions": [
+            {"time": "22:30"}
+          ]
+        },
+        {
+          "dayName": "Понедельник",
+          "shortDayName": "Пт",
+          "dateFormatted": "11.10",
+          "sessions": [
+            {"time": "22:30"},
+            {"time": "14:00"},
+            {"time": "19:00"},
+            {"time": "21:00"}
+          ]
+        }
+      ]
+    }
+  ]
+}

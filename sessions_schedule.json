@@ -1,0 +1,74 @@
+{
+    "data": [
+      {
+        "dayName": "Среда",
+        "shortDayName": "Ср",
+        "dateFormatted": "09.10",
+        "sessions": [
+          {"time": "10:30", "hall": "union", "icon":"/images/icons/soyz.svg"},
+          {"time": "11:50", "hall": "shevchenko", "icon":"/images/icons/shevchenko.svg"},
+          {"time": "10:30", "hall": "zvezdochka", "icon":"/images/icons/star.svg"}
+        ]
+      },
+      {
+        "dayName": "Четверг",
+        "shortDayName": "Чт",
+        "dateFormatted": "10.10",
+        "sessions": [
+          {"time": "10:30", "hall": "union", "icon":"/images/icons/soyz.svg"},
+          {"time": "11:50", "hall": "shevchenko", "icon":"/images/icons/shevchenko.svg"},
+          {"time": "10:30", "hall": "zvezdochka", "icon":"/images/icons/star.svg"}
+        ]
+      },
+      {
+        "dayName": "Пятница",
+        "shortDayName": "Пт",
+        "dateFormatted": "11.10",
+        "sessions": [
+          {"time": "10:30", "hall": "union", "icon":"/images/icons/soyz.svg"},
+          {"time": "11:50", "hall": "shevchenko", "icon":"/images/icons/shevchenko.svg"},
+          {"time": "10:30", "hall": "zvezdochka", "icon":"/images/icons/star.svg"}
+        ]
+      },
+      {
+        "dayName": "Суббота",
+        "shortDayName": "Сб",
+        "dateFormatted": "12.10",
+        "sessions": [
+          {"time": "10:30", "hall": "union", "icon":"/images/icons/soyz.svg"},
+          {"time": "11:50", "hall": "shevchenko", "icon":"/images/icons/shevchenko.svg"},
+          {"time": "10:30", "hall": "zvezdochka", "icon":"/images/icons/star.svg"}
+        ]
+      },
+      {
+        "dayName": "Воскресенье",
+        "shortDayName": "Вс",
+        "dateFormatted": "13.10",
+        "sessions": [
+          {"time": "10:30", "hall": "union", "icon":"/images/icons/soyz.svg"},
+          {"time": "11:50", "hall": "shevchenko", "icon":"/images/icons/shevchenko.svg"},
+          {"time": "10:30", "hall": "zvezdochka", "icon":"/images/icons/star.svg"}
+        ]
+      },
+      {
+        "dayName": "Понедельник",
+        "shortDayName": "Пн",
+        "dateFormatted": "14.10",
+        "sessions": [
+          {"time": "10:30", "hall": "union", "icon":"/images/icons/soyz.svg"},
+          {"time": "11:50", "hall": "shevchenko", "icon":"/images/icons/shevchenko.svg"},
+          {"time": "10:30", "hall": "zvezdochka", "icon":"/images/icons/star.svg"}
+        ]
+      },
+      {
+        "dayName": "Вторник",
+        "shortDayName": "Вт",
+        "dateFormatted": "15.10",
+        "sessions": [
+          {"time": "10:30", "hall": "union", "icon":"/images/icons/soyz.svg"},
+          {"time": "11:50", "hall": "shevchenko", "icon":"/images/icons/shevchenko.svg"},
+          {"time": "10:30", "hall": "zvezdochka", "icon":"/images/icons/star.svg"}
+        ]
+      }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data":
+      {
+        "id": "1",
+        "title": "Неисправимый рон",
+        "original_title": "Original Title",
+        "release_year": "2021",
+        "country": ["США", "Великобритания", "Канада"],
+        "age_rating": "6+",
+        "genres": ["мультфильм", "фантастика", "комедия", "приключения", "семейный"],
+        "description": "У любого ребенка должен быть друг. Настоящий, а не какой-то там домашний питомец. Таким лучшим другом может стать прекрасный робот, умеющий двигаться, говорить, но главное — подключенный к интернету, и помогающий своему хозяину делать публикации в соцсетях и узнавать о всех последних тенденциях, поддерживать связь с одноклассниками и быть в курсе событий. Такие есть у всех школьников, кроме стеснительного Барни, который из-за этого чувствует себя чужим среди своих сверстников — до тех пор, пока не получает на день рождения долгожданный подарок. Но робот по имени Рон оказался бракованным, и его юный хозяин решает самостоятельно научить его всему, что знает сам.",
+        "poster": "/images/movie_poster.svg",
+        "iframe": "https://www.youtube.com/embed/rCo_HYMjtAc?si=aDI0v7WjnTArD1sm",
+        "cast": [
+          "Джек Дилан Грейзер", 
+          "Зак Галифианакис", 
+          "Эд Хелмс", 
+          "Оливия Колман", 
+          "Роб Делани", 
+          "Джастис Смит", 
+          "Кайли Кэнтралл"
+        ],
+        "crew": {
+          "director": ["Режиссер 1", "Режиссер 2"],
+          "writers": ["Сценарист 1", "Сценарист 2"],
+          "producers": ["Продюсер 1", "Продюсер 2"]
+        },
+        "schedule": [
+          {
+            "dayName": "Среда",
+            "shortDayName": "Ср",
+            "dateFormatted": "09.10",
+            "sessions": [
+              {"time": "10:30", "hall": "union", "icon":"/images/icons/soyz.svg"},
+              {"time": "11:50", "hall": "shevchenko", "icon":"/images/icons/shevchenko.svg"},
+              {"time": "10:30", "hall": "zvezdochka", "icon":"/images/icons/star.svg"}
+            ]
+          },
+          {
+            "dayName": "Четверг",
+            "shortDayName": "Чт",
+            "dateFormatted": "10.10",
+            "sessions": [
+              {"time": "13:15", "hall": "golden_ring", "icon":"/images/icons/golden_ring.svg"},
+              {"time": "20:05", "hall": "kinocult", "icon":"/images/icons/kinokult.svg"}
+            ]
+          },
+          {
+            "dayName": "Пятница",
+            "shortDayName": "Пт",
+            "dateFormatted": "11.10",
+            "sessions": [
+              {"time": "13:15", "hall": "zvezdochka", "icon":"/images/icons/star.svg"}
+            ]
+          },
+          {
+            "dayName": "Суббота",
+            "shortDayName": "Сб",
+            "dateFormatted": "12.10",
+            "sessions": [
+              {"time": "17:10", "hall": "union", "icon":"/images/icons/soyz.svg"},
+              {"time": "22:00", "hall": "shevchenko", "icon":"/images/icons/shevchenko.svg"},
+              {"time": "13:15", "hall": "zvezdochka", "icon":"/images/icons/star.svg"}
+            ]
+          }
+        ],
+        "duration": "90 мин"
+      }
+  }
+  
